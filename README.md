@@ -1,4 +1,4 @@
-# MetaMask Browser Extension
+# EsaWallet Browser Extension
 
 You can find the latest version of MetaMask on [our official website](https://metamask.io/). For help using MetaMask, visit our [User Support Site](https://support.metamask.io/).
 
@@ -20,7 +20,7 @@ As an alternative to building on your local machine, there is a new option to ge
 
 _Note: You are billed for both time spent running, and for storage used_
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MetaMask/metamask-extension?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/esculapesa/EsaWallet?quickstart=1)
 
 1. Start by clicking the button above
 2. A new browser tab will open with a remote version of Visual Studio Code (this will take a few minutes to load)
